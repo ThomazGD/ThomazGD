@@ -1,25 +1,14 @@
-# 👩🏻‍💻 Thomaz Mendes
+# 👨🏻‍💻 Thomaz Mendes
 
-**`Desenvolvedora Full Stack`**
+**`Desenvolvedor Full Stack`**
 
-Olá! Sou Thomaz Mendes Do Rosario, tenho 18 anos e sou natural de São Paulo. Estou Cursando Ciencia Da Computação na Universidade Paulista (UNIP).
+Olá! Sou Thomaz Mendes do Rosário, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando Ciência da Computação na Universidade Paulista (UNIP). Sou entusiasta de tecnologia e desenvolvimento de software, com foco em soluções web e automação.
 
-<p>
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+---
+
+### 💼 Projeto em Destaque
+
+- [Roonie](https://github.com/ThomazGD/Roonie): Plataforma web desenvolvida com foco em gerenciamento de tarefas, utilizando tecnologias modernas para proporcionar uma experiência intuitiva e eficiente aos usuários.
 
 ---
 
@@ -44,17 +33,24 @@ Olá! Sou Thomaz Mendes Do Rosario, tenho 18 anos e sou natural de São Paulo. E
 
 ---
 
-### 📊 Estatísticas GitHub
+### 📊 Estatísticas do GitHub
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=ThomazGD&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     alt="Estatísticas do GitHub" 
     height="200" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomazGD&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     alt="Linguagens mais usadas" 
     height="200" 
   />
 </p>
+
+---
+
+### 📫 Contato
+
+- GitHub: [ThomazGD](https://github.com/ThomazGD)
+- Instagram: [@_th0maz._](https://www.instagram.com/_th0maz._/)
